@@ -2,6 +2,25 @@ Moth of Pripyat
 Designed and developed by Johnathan Worral, Jed Davies and Cory White
 With support from Ranju Raveendran
 
-Textures
+Paper Textures
 old paper texture background Image by janoon028 on Freepik
 Vintage grunge paper background Image by kjpargeter on Freepik
+
+Free BPR Textures Used
+https://freepbr.com/materials/bamboo-wood-pbr-material/
+https://freepbr.com/materials/antique-wood-veneer/
+https://freepbr.com/materials/ice-field-pbr/
+https://freepbr.com/materials/chipping-painted-wall/
+https://freepbr.com/materials/old-abandoned-building-wood-plank-flooring-pbr-material-4/
+https://freepbr.com/materials/stone-block-wall/
+https://freepbr.com/materials/stonework-wall/
+https://freepbr.com/materials/matted-old-shaggy-rug/
+https://freepbr.com/materials/used-stainless-steel/
+https://freepbr.com/materials/worn-scuffed-plastic-pbr-material/
+https://freepbr.com/materials/textured-rubber-pbr-material/
+
+Other Texture Used (Web from Texture Can)
+https://www.texturecan.com/details/237/
+
+Moth Asset from WDallgraphics
+https://www.unrealengine.com/marketplace/en-US/product/blue-morpho-butterfly?sessionInvalidated=true
